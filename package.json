@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sarathps93/react-suspense-fallback#readme",
   "dependencies": {
-    "react": "0.0.0-experimental-5faf377df",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-5faf377df",
     "react-scripts": "^3.3.0"
   },
